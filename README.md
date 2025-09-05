@@ -9,6 +9,7 @@ npm install
 ## Execução do código
 
 npm start
+
 -> abrirá a tela no navegador em: http://localhost:3000/
 
 ## Execução dos testes
