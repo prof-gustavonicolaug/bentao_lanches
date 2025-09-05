@@ -4,6 +4,7 @@ Bentão Lanches é um projeto fictício e didático da disciplina de Qualidade e
 ## Instalação
 
 cd bentao_lanches
+
 npm install
 
 ## Execução do código
